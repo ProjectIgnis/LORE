@@ -2,7 +2,17 @@
 
 **Translated by the Project Ignis team from the following Chinese translations.**
 
-MAIN SOURCE TO BE ADDED WHEN THE EVENT IS OVER
+Main source by cinderella355 and co. (seems to be accurate in structure to the original):
+- https://bbs.newwise.com/thread-956028-1-1.html
+
+Supplementary source used for reference (a reorganized interpretation):
+- https://www.bilibili.com/read/cv4620713/
+- https://www.bilibili.com/read/cv4620943/
+- https://tieba.baidu.com/p/6482655158
+
+English translation: kevinlul, Larry126. Edited by pyrQ.
+
+Images via [Bastion](https://github.com/AlphaKretin/bastion-bot) used for illustration to mimic the print Master Guide.
 
 This is only as faithful as the Chinese translations are, so it might not be perfectly accurate,
 but it should be good enough for you to connect the dots and fill in the blanks.
@@ -326,3 +336,502 @@ The power of feelings and thoughts is a strength of living beings and also easil
 As long as "Lee" possessed the physical body of "Ib", "Auram" who shared close bonds with "Ib" could never face that form in arms.
 "Iblee" was so proud, but the growth of "Auram", the resolve of the "Mekk-Knights", the fierce fight by "Ningirsu", and the awakening of "Imduk" &mdash; these tiny flaws accumulating led to a fatal anomaly, finally crushing her ambitions.
 But for "Auram" and the other "Chalice" warriors, this is a nightmarish conclusion.
+
+## **The flourishing and destruction of the ancient civilization**
+
+### The age of a prosperous and highly advanced civilization of surface life
+
+This is an age eons before the time of "Auram" and company.
+
+Billions of years after Genesis, humanity reaches its zenith.
+Though humanity was advanced enough to study and pursue the meaning of life, this brought endless exploitation of resources.
+The great dragons that defended the planet thus went extinct, their mission left only to legends.
+
+During this age, the "Key" was unearthed.
+
+Humanity is on one hand effervescent about discovering the relic of legend, but on the other hand fears that this discovery is an omen of the battle between the "World Hero" and the "Great Darkness".
+Thus humanity investigates the "Key".
+
+"Lee" is an authoritative and world-famous scientist in information engineering. She participates in the research team and makes major breakthroughs.
+But at this point, nobody could notice that behind her hypotheses was a wild ambition &mdash; "to wield the power of God in my hands".
+
+The hypothesis that "Lee" had hidden was the other side of the legend of the "World Hero", the truth behind the appearance of the "Great Darkness".
+The "Key" controls the forces of creation and destruction. It has the power to "express" these.
+The "World Hero" borrowing its power to defeat the "Great Darkness" is described in many legends.
+But the reverse should also be true.
+Indeed, the manifestation of the "Great Darkness" is also caused by the "Key" &mdash; true to its name, not only does the "Key" lock the planetary prison, it can also open the door.
+
+The so-called heroic legends are the history of the fight over the "Key" between people who bear God's mission and people who desire reviving the force of destruction.
+
+**World Legacy's Memory**
+
+![World Legacy's Memory](https://pics.alphakretin.fail/lotd/68191756.png)
+
+### The ultimate "Mekk-Knight" that brings about demise
+
+The "Key" research team becomes the "Crusadia" organization, a direct subsidiary of the united nations. They recommend developing mechas under "Project Mekk-Knight" to combat this threat to the planet.
+
+Years later, "Morning Star", whose core embeds the "Key", is created as the weapon for the final battle, but in its maiden test, an irreversible incident occurs.
+
+The energy of the planet under the influence of the "Key" reverses its flow. The energy that should have flowed toward the core of the earth reverses and splits open the earth. The force of destruction hence spills forth and the surface world becomes scorched earth.
+And this is all according to the plans of "Lee", operator of "Morning Star.
+
+But just when the "Great Darkness" was about to revive, the seven "Mekk-Knights", which served as accompanying mechanisms of the "Crusadia", appeared and destroyed "Morning Star", successfully sealing the "Great Darkness" in the earth's core.
+But as the power of God, part of the authority of the "Great Darkness" and the "Key" transform into various artifacts on the surface that symbolize their powers.
+The surviving "Crusadia" discover the corpse of "Lee", the culprit, but regretfully, on this apocalyptic surface, there is nowhere left for humans to survive.
+
+The "Crusadia" believe that the "World Hero" who could control the power of the "Key" did not appear in this age because the power of the earth had long since weakened.
+Thus, they program the surviving "Mekk-Knights" to prioritize "restoring the power of the earth", "birthing new life", and "halting the development of dangerous civilizations".
+Like this, the individual personalities of the "Crusadia" and the mission to revitalize the earth is saved on the "Mekk-Knights" via brain wave link.
+
+The "Crusadia" entrust their hope to the future, but they failed to notice that "Lee", who was supposed to be dead, had also discarded her physical form and moved her soul to the "World Chalice", which possesses the authority of "will".
+
+**Mekk-Knight of the Morning Star**
+
+![Mekk-Knight of the Morning Star](https://pics.alphakretin.fail/lotd/72006609.png)
+
+## The World Chalice story unfolding around the fate of the planet / Act II
+
+&mdash; The power of God and the future of the world &mdash;
+
+### The "Crusadia" are formed again
+
+Many years pass since that tragedy.
+Back then, "Ningirsu" knocked out the injured "Auram" and carried "Ib" away with the sword.
+
+Even though "Auram" was dealt a double blow both physically and emotionally, he still sensed the hidden danger posed by the departure of "Ningirsu".
+To stop the threat posed by "Ningirsu", "Auram" decides to search for other life remaining on the planet.
+Using the abilities inherited from the "Mekk-Knights", "Auram" successfully fixes a "Krawler" and exchanges information.
+
+From the records stored in the "Krawler", "Auram" discovers various tribes. By synthesizing the legends and literature of the tribes, he unlocks the mystery of the world.
+He figures out that the power sleeping in the planet was the objective of "Lee" and also what "Ningirsu" seeks now.
+
+The leaders of the tribes volunteer to help stop "Ningirsu" and form an alliance.
+Thus they succeed the "Crusadia" of the ancient civilization as described in literature, activate the "World Crown", and begin their crusade.
+
+**Crusadia Draco (Imduk)**
+
+![Crusadia Draco](https://pics.alphakretin.fail/lotd/54525057.png)
+
+**Crusadia Maximus (Auram)**
+
+![Crusadia Maximus](https://pics.alphakretin.fail/lotd/81524756.png)
+
+Attempting to "exchange information" with the "Krawlers".
+
+**World Legacy's Mind Meld**
+
+![World Legacy's Mind Meld](https://pics.alphakretin.fail/lotd/27705190.png)
+
+**Crusadia Krawler**
+
+![Crusadia Krawler](https://pics.alphakretin.fail/lotd/55838342.png)
+
+### The denizens of the world whom "Auram" meet
+
+Found through the records stored in the "Krawler" are the "Magic Realm of Fire Tribe", the "Court of the Beast King Tribe", and the secret protectors of the "World Crown" of the "Lake of the Sacred Tree Tribe".
+
+**Crusadia Reclusia**
+
+![Crusadia Reclusia](https://pics.alphakretin.fail/lotd/55241609.png)
+
+**Crusadia Leonis**
+
+![Crusadia Leonis](https://pics.alphakretin.fail/lotd/28031913.png)
+
+**Crusadia Arboria**
+
+![Crusadia Arboria](https://pics.alphakretin.fail/lotd/91646304.png)
+
+**Crusadia Revival**
+
+![Crusadia Revival](https://pics.alphakretin.fail/lotd/69039982.png)
+
+### "Ningirsu" who left with the corpse of "Ib" and the sword of "Auram"
+
+Since the tragedy, "Ningirsu" keeps moving forward on only one wish.
+To him, a world without "Ib" is a world without right and wrong. As long as he could get her smile back, good and evil are irrelevant.
+
+"Ningirsu" retrieves the "Mekk-Knight" cores from the six "Knightmares" that he destroyed in battle, and therefrom learns the truth of the world. Using lost technology, he constructs a body that can act as a soul container for "Ib".
+
+> For the world, my sister lost her life. Then this time, for my sister, I will create a world.
+
+With this belief, Ningirsu starts building the gate of God, "Babel".
+
+**Orcustrated Return**
+
+![Orcustrated Return](https://pics.alphakretin.fail/lotd/26845680.png)
+
+**Orcustrated Babel**
+
+![Orcustrated Babel](https://pics.alphakretin.fail/lotd/90351981.png)
+
+### The start of the "World Battle"
+
+"Ningirsu" constructs an automaton after endless experiments.
+The automaton supplemented its sensory abilities from the corpse of "Ib" and finally succeeds in "expressing" some functions of the twin swords.
+"Ningirsu" tries to synchronize the automaton with the "World Lance", "World Shield", and "World Armor", in order to forcibly activate the "World Wand".
+
+The final "World Battle" between "Auram" and company rushing to the battlefield and "Ningirsu" is about to begin…
+
+**World Legacy - "World Crown"**
+
+![World Legacy - "World Crown"](https://pics.alphakretin.fail/lotd/27918365.png)
+
+### The "Crusadia" forces who have gained the power of the "World Crown"
+
+Receiving the support of various tribes, "Auram" leads the allied forces of the "Crusadia". They are endowed with great power from the "World Crown" that was hidden by the "Sacred Tree Tribe" and transform into forms corresponding to that of the "Crusadia" titles of old, launching their attack on "Ningirsu".
+
+**Crusadia Power**
+
+![Crusadia Power](https://pics.alphakretin.fail/lotd/96434581.png)
+
+**Crusadia Equimax**
+
+![Crusadia Equimax](https://pics.alphakretin.fail/lotd/45002991.png)
+
+**Crusadia Regulex**
+
+![Crusadia Regulex](https://pics.alphakretin.fail/lotd/9617996.png)
+
+**Crusadia Magius**
+
+![Crusadia Magius](https://pics.alphakretin.fail/lotd/72228247.png)
+
+**Crusadia Spatha**
+
+![Crusadia Spatha](https://pics.alphakretin.fail/lotd/39528955.png)
+
+### The "Orcust" form up and fight the "Crusadia" head on
+
+"Babel" towers into the sky beyond the clouds and "Auram" shudders in awe, but he also notices an evil miasma attached to it and continues pressing toward the tower's base.
+Countless mechanical weapons, the "Orcust", block his path.
+Though they were all byproducts of creating the container for "Ib", after the numerous experiments by "Ningirsu", they are military-scale in number.
+
+The "Crusadia" are at a disadvantage in combat against the ultimate "Orcust" fighting force, "Orcustrion".
+At the climax of the fight, "Auram" notices an "expression" in sync with his half of the power of the "Key" from inside "Babel".
+
+**Orcust Brass Bombard**
+
+![Orcust Brass Bombard](https://pics.alphakretin.fail/lotd/94046012.png)
+
+**Orcust Cymbal Skeleton**
+
+![Orcust Cymbal Skeleton](https://pics.alphakretin.fail/lotd/21441617.png)
+
+**Orcust Harp Horror**
+
+![Orcust Harp Horror](https://pics.alphakretin.fail/lotd/57835716.png)
+
+**Orcustrion**
+
+![Orcustrion](https://pics.alphakretin.fail/lotd/3134857.png)
+
+**Orcustrated Einsatz**
+
+![Orcustrated Einsatz](https://pics.alphakretin.fail/lotd/62834295.png)
+
+"Babel" releases the same power as "Auram".
+
+### The power wielded by the "World Wand"
+
+"Babel" shines with light and extends.
+
+The true goal of "Ningirsu" is not to connect "Babel" to the sky, but to strike down the "World Wand" in the sky, destroy the earth's core, and thus awaken the "World Ark" sleeping underground.
+By using the authority of the "World Ark" over life and death to revive the soul of "Ib", then by releasing the power of the "Great Darkness" sealed in the earth's core, he could have "Ib" reborn as the new "Creator God".
+
+"Auram" rushes to the automaton responsible for starting the process, but is stopped by a ruthless onslaught from "Ningirsu" and the "Orcusts".
+
+&mdash; The "World Wand" falls from the sky, and the earth sounds a cry.
+
+_There's a reference above to how the "Orcust" are musical and the earth "sounds" a cry, like an orchestra._
+
+**Longirsu, the Orcust Orchestrator (Ningirsu)**
+
+![Longirsu, the Orcust Orchestrator](https://pics.alphakretin.fail/lotd/76145142.png)
+
+**World Legacy - "World Wand"**
+
+![World Legacy - "World Wand"](https://pics.alphakretin.fail/lotd/93920420.png)
+
+**Orcustrated Attack**
+
+![Orcustrated Attack](https://pics.alphakretin.fail/lotd/29666221.png)
+
+**Orcustrated Core**
+
+![Orcustrated Core](https://pics.alphakretin.fail/lotd//55051920.png)
+
+### The "Guardragon" who are born due to the "World Ark"
+
+The huge shockwave from the "World Wand" striking the earth splits apart the surface, and the "Crusadia" are pulled in by the aftershocks.
+
+At this moment, to protect his valuable friends, "Imduk" once again "expresses" his power, sacrificing his life to create a great barrier. After the shockwave passes, the "Crusadia" survive but "Imduk" exhausts his own power.
+
+&mdash; As well, the "World Ark" is already activated.
+
+The "World Ark", with the authority over life and death, accepts the death of "Imduk" and causes itself to be reborn in the form of "Andrake".
+The remnants of his energy flow through the fractured core of the earth, covering all the "World Legacies", awakening the "Guardragons".
+
+**Guardragon Shield**
+
+![Guardragon Shield](https://pics.alphakretin.fail/lotd/50186558.png)
+
+**World Legacy Guardragon**
+
+![World Legacy Guardragon](https://pics.alphakretin.fail/lotd/87571563.png)
+
+**World Legacy - "World Ark"**
+
+![World Legacy - "World Ark"](https://pics.alphakretin.fail/lotd/42388271.png)
+
+**Guardragon Corewakening**
+
+![Guardragon Corewakening](https://pics.alphakretin.fail/lotd/11908584.png)
+
+### The "World Legacies" are reborn as "Guardragons"
+
+The "World Legacies" are a materialization of God's authority. After absorbing "Imduk", to release the power of God they had nurtured with themselves, they molt into dragons.
+
+World Legacy | Guardragon
+--- | ---
+World Chalice | Justicia
+World Crown  | Garmides
+World Wand | Promineses
+World Ark | Andrake
+World Shield | Elpy
+World Armor | Pisty
+World Lance | Agarpain
+
+**Guardragon Andrake (Imduk the World Chalice Dragon)**
+
+![Guardragon Andrake](https://pics.alphakretin.fail/lotd/6990577.png)
+
+**Guardragon Cataclysm**
+
+![Guardragon Cataclysm](https://pics.alphakretin.fail/lotd/47393199.png)
+
+### The soul of "Lee" finally revives
+
+"Ningirsu" clutches the corpse of "Ib" and approaches the automaton.
+As long as he controls the power of the "Key" transplanted into the automaton, he would even be able to control all the "Guardragons".
+By uniting all the powers within him, he would finally be able to use the authority over life and death to revive the soul of "Ib".
+Of course, at this moment, it is not the expected smile of "Ib", but a wicked grin that appears on the automaton's face.
+
+At the instant when the soul of "Ib" was called back, "Lee", who had always been assimilated into the automaton, stole away the controls. With the power of the "Key" that was transplanted into the automaton, she annihilates the soul of "Ib".
+
+**Orcustrated Release**
+
+![Orcustrated Release](https://pics.alphakretin.fail/lotd/47171541.png)
+
+**Orcust Knightmare**
+
+![Orcust Knightmare](https://pics.alphakretin.fail/lotd/4055337.png)
+
+**Knightmare Incarnation Idlee**
+
+![Knightmare Incarnation Idlee](https://pics.alphakretin.fail/lotd/9794980.png)
+
+In the age of mechanized civilization estranged from the earth that "Lee" was born into, the inheritor of the "Key", necessary for reviving God, would not appear again.
+Since not even "Morning Star" was a sufficient container to hold this power, then just erase mechanized civilization from the face of the earth &mdash; this is the conclusion that "Lee" arrived at.
+Thus, even the directive of the "Crusadia" to restore life to the earth was all within her plans.
+
+After eons, the inheritors who would be able to activate the "World Legacies" finally appear and her plan is set into action.
+Though she was once stopped by an annoying dragon and interfered with by the inheritors, her coveting of God's power had long transcended the fetters of common sense.
+Born from absorbing the corpse of "Ib" and the authority of five "Guardragons", "Idlee" has finally obtained the power to make the power of God her own.
+
+### The horrific power of "Idlee" and a thread of hope
+
+To awaken and assimilate the power of God sealed in the earth's core, "Idlee" gives births to the central nervous system "Deus X-Krawler", desiring to inject the power of God into her body and descend as a new perfect God. Consumed by the authority of death, "Mardark" also defends "Idlee". It seems like nobody can stop the developing situation.
+
+At this moment, "Justicia" flies in from the "Celestial Forest", releasing energy. "Justicia" fuses with the body of "Ib" that was pulled out from "Idlee" and is reborn as "Ib the World Chalice Justiciar".
+
+**World Legacy Monstrosity**
+
+![World Legacy Monstrosity](https://pics.alphakretin.fail/lotd/14604710.png)
+
+**World Legacy Guardragon Mardark**
+
+![World Legacy Guardragon Mardark](https://pics.alphakretin.fail/lotd/35183584.png)
+
+**Deus X-Krawler**
+
+![Deus X-Krawler](https://pics.alphakretin.fail/lotd/62587693.png)
+
+**Guardragon Reincarnation**
+
+![Guardragon Reincarnation](https://pics.alphakretin.fail/lotd/40003819.png)
+
+**Ib the World Chalice Justiciar**
+
+![Ib the World Chalice Justiciar](https://pics.alphakretin.fail/lotd/94677445.png)
+
+### The pure-hearted "container"
+
+"Idlee" through "Ib" controlled all power including the "Key". At the moment of fusion, the soul of "Ib" should have been annihilated… but at that moment, what "Lee" actually annihilated was the unknown soul of that automaton.
+
+Though it was an automaton fabricated to act as a container, by the effects of transplantation, at some point it had gained its own consciousness.
+The name "Galatea", she learned from secretly studying data of the ancient civilization.
+A female name of one who became human by being loved.
+This is the name that the automaton destined to become "Ib" secretly called herself, the name she could never tell others.
+
+When the fusion of "Lee" and "Ib" was imminent, "Galatea" sacrificed herself to protect "Ib" and was annihilated. The soul of "Ib" was transferred to the "World Chalice" and reborn as "Guardragon Justicia".
+
+**Galatea, the Orcust Automaton**
+
+![Galatea, the Orcust Automaton](https://pics.alphakretin.fail/lotd/30741503.png)
+
+### The "container for the power of God" appears from underground
+
+Having lost the power of the "Key", "Idlee" could no longer suppress the great power within her and continued to lose control, her form collapsing.
+
+On the other side, the reborn "Ib" meets up with "Auram", and they collectively recall the soul of "Imduk" from "Mardark".
+"Imduk" greatly increases the newfound authority over life and evolves into "Almarduke".
+Before everybody had the chance to enjoy their reunion, "Deus X-Krawler" had obtained power from the earth's core and destroyed the earth. The underside of the container for God's power &mdash; "Theurlogical Demiurgy", appeared.
+
+**World Gears of Theurlogical Demiurgy**
+
+![World Gears of Theurlogical Demiurgy](https://pics.alphakretin.fail/lotd/57282724.png)
+
+Facing the embodiment of the force of destruction, the "Great Darkness", in ""Theurlogical Demiurgy", "Auram" suggested the final strategy that "Blue Sky" had once tried but stopped halfway &mdash; inherit the "World Key".
+On this basis, as long as the powers of the "World Legacies" are gathered in his body, he would be able to defeat the "Great Darkness".
+
+**World Chalice Guardragon Almarduke**
+
+![World Chalice Guardragon Almarduke](https://pics.alphakretin.fail/lotd/95793022.png)
+
+**Crusadia Testament**
+
+![Crusadia Testament](https://pics.alphakretin.fail/lotd/87497553.png)
+
+### Answering the dying will of "Galatea", the "machine god's lance" is born
+
+"Idlee" notices the attempt of "Auram" at uniting the powers and launches her final assault to prevent this, but is stopped by "Ningirsu".
+Echoing the dying will of "Galatea", he smelts the remains of "Babel" and the "Orcusts" into one. "Dingirsu, the Orcust of the Evening Star" is born.
+
+**Orcust Crescendo**
+
+![Orcust Crescendo](https://pics.alphakretin.fail/lotd/703897.png)
+
+**Dingirsu, the Orcust of the Evening Star**
+
+![Dingirsu, the Orcust of the Evening Star](https://pics.alphakretin.fail/lotd/93854893.png)
+
+### The birth of the "World Hero" as chronicled in Genesis
+
+The brutal assault of the "Crusadia" led by "Auram", the totally unexpected rebirth of "Ib", and the counterattack by "Ningirsu"… these are all heavy blows to the body of "Idlee", finally destroyed by the attack of "Dingirsu".
+Yet, even at the very, very end, "Lee" continues to covet the throne of God.
+Having long since lost her sanity, having gone berserk, she forcibly squishes her soul into the "Theurlogical Demiurgy" that is still synchronizing with "Deus X-Krawler".
+Of course, having lost the "Key", she could never control or direct that great power. After sensing her evil intent, "Theurlogical Demiurgy" goes haywire.
+
+Possessing the power of God, the world could be created and destroyed at the snap of a finger.
+Even the aftershocks of the energy spilling from this creation, are sufficient to accelerate the destruction of the world.
+"Theurlogical Demiurgy" now becomes the embodiment of the authority of destruction.
+Trying to seal God with powers at the level of the earth's core is a fool's errand. The end of the world seemed unavoidable.
+
+At this moment, "Auram" finally completes the inheritance of the "Key", unites the powers of the "World Legacies", and awakens as the "World Hero" &mdash; "Mekk-Knight Crusadia Avramax".
+
+**World Legacy Collapse**
+
+![World Legacy Collapse](https://pics.alphakretin.fail/lotd/36197902.png)
+
+Sensing the evil intent of "Idlee", it goes haywire.
+
+**Mekk-Knight Crusadia Avramax**
+
+![Mekk-Knight Crusadia Avramax](https://pics.alphakretin.fail/lotd/21887175.png)
+
+The "World Hero" who saved the world is born again.
+
+### Fusing with the "container for the power of God"
+
+"Avramax" charges into the core of "Theurlogical Demiurgy" and encounters some remnants of the consciousness of "Lee", from which he learns the truth behind the Creator God.
+
+The so-called "World Gears" are the original form of all divinity. By synchronizing with the will inside it, one can execute the great power of God &mdash; simply put, this is the program to become God.
+
+Formerly, the will inhabiting "World Gears" controlled the workings of the universe, but when the out-of-control force of destruction and its container were sealed together in the earth's core, that will faded away.
+Now, because of the force of destruction, crisis arrives again.
+To allow it to run amok, well, it would not only be this planet, but the entire universe would be destroyed.
+
+"Avramax" considers what he can do as the truly awakened inheritor of the "Key", and finally decides to fully release the power of the "Key".
+He means not to destroy divinity, but to assimilate into the container.
+
+&mdash; "A-vida" is thus born.
+
+**World Legacy Cliffhanger**
+
+![World Legacy Cliffhanger](https://pics.alphakretin.fail/lotd/73192600.png)
+
+**World Legacy Bestowal**
+
+![World Legacy Bestowal](https://pics.alphakretin.fail/lotd/59778096.png)
+
+**Avida, Rebuilder of Worlds**
+
+![Avida, Rebuilder of Worlds](https://pics.alphakretin.fail/lotd/17469113.png)
+
+The "World Hero" who chooses to become God to end it all.
+
+### Rebirth
+
+The new God "A-vida" who is born here after a long conflict, at the end of everything obtains the power of God transcending human intelligence.
+He makes a wish, hoping for the world he had lived as a human and getting back the lives lost in this "World Battle", including "Ningirsu", "Ib", and the "Crusadia" whom he fought with side-by-side.
+
+Perhaps for God, this is too human, too lonely and pure. Perhaps this act is a worse crime more deserving of punishment than destroying the planet.
+Even so, God still makes this choice.
+God uses the destroyed planet as a container, and for the lives that had thrived on that planet, starts the rebirth program.
+
+Thus, the world is enveloped by light &mdash;
+
+**World Reassembly**
+
+![World Reassembly](https://pics.alphakretin.fail/lotd/42172465.png)
+
+By the choice of "A-vida", the planet's rebirth program activates
+
+```
+That day, consciousness fell into a deep sleep alongside dazzling light
+Eyes opening, a sight of peaceful tranquility and night sky
+She starts a journey, in the world lit by the comforting light of many stars
+The sword in her hand, occasionally flashes faintly with beautiful light
+Nobody knows, what would be found where the light guides
+But even so, the girl walks
+Entrusting her hope to that faint light, on the world that he left to her
+```
+
+**Lib the World Key Blademaster**
+
+![Lib the World Key Blademaster](https://pics.alphakretin.fail/lotd//39752820.png)
+
+The curtain closes on the planetary war. "Auram" who transformed into "A-vida" disappeared, but leaves in the realm of huamnity the "Key", transformed into a sword.
+
+> Never let the tragedy of battle over the power of God happen again…
+
+"Ib" tightly clasps the sword and starts a new journey on this planet that was saved by her important person.
+
+**World Legacy - "World Key"**
+
+![World Legacy - "World Key"](https://pics.alphakretin.fail/lotd/40441990.png)
+
+Under the rebirth program of "A-vida", the "Key" that could decide the fate of the planet absorbed the powers of the "World Legacies", transforming into a sword called the "World Key".
+"Ib", its wielder, seeks a location to seal this sword to avoid the repetition of the tragedy.
+
+**Girsu, the Orcust Mekk-Knight**
+
+![Girsu, the Orcust Mekk-Knight](https://pics.alphakretin.fail/69811710.png)
+
+Having once fallen, "Ningirsu" is reborn as the planet-protecting "Mekk-Knight".
+As the embodiment of the dying wish of "Auram", he swears to silently protect and help "Ib" as a shadow.
+
+Close by his side is the figure of fairy "Galatea".
+
+**The World Legacy**
+
+![The World Legacy](https://pics.alphakretin.fail/lotd/92562411.png)
+
+Under the influence of the power of "A-vida", the scars caused by the destruction by the "Great Darkness" seem like lies, having disappeared without a trace.
+In this sky shine numerous stars, and if one listens carefully, one can hear the breath of life.
+
+Thus, having been entrusted with the "World Key", "Ib" with the determination in her heart takes her steps &mdash;
+
+on the path guided to by "The World Legacy".
