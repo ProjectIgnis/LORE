@@ -236,7 +236,7 @@ Faced with the all-out attack from "Auram" and company, the "Mekk-Knights" feel 
 
 ### The battle as planned by "Lee"
 
-Seeing the "Lee" who snuck in alone to her side, "Ib" relaxed, and she voiced her doubts to "Lee", who should know about the truth of the "Mekk-Knights":
+Seeing the "Lee" who had snuck in alone to her side, "Ib" relaxes, and she voices her doubts to "Lee", who should know about the truth of the "Mekk-Knights":
 
 > Maybe we don't have to fight the Mekk-Knights.
 
@@ -257,7 +257,7 @@ Having revealed her true nature, "Lee" completely steals the body and consciousn
 "Ningirsu", seen as the most powerful by the "Mekk-Knights", and "Auram", who exceeds "Ningirsu" with his growing momentum, continue to battle.
 At this moment, a huge explosion happens in the ruins.
 The "World Chalice" releases even greater power than when it was activated, and in the next instant, "she" shows herself.
-Though her appearance is the same, the evil miasma emanating from her body signals that she was no longer "Ib".
+Though her appearance is the same, the evil miasma emanating from her body signals that she is no longer "Ib".
 A creepy smile crawls across her face as she announces that she is "Lee", and this body is now also hers.
 Quickly, "Iblee" releases shockwaves, forcibly revoking the "World Chalice" powers granted to "Auram" and company, wanting to take their lives.
 Unexpectedly, the "Mekk-Knights" stand in her way.
@@ -301,7 +301,7 @@ Although in the preceding battle they had lost the power of the "World Chalice",
 
 "Iblee" created monsters via the "Mekk-Knight" cores, which each inherited the unique abilities of the "Mekk-Knights".
 Rushing to the side of "Auram", who was in bitter combat, "Ningirsu" kills "Mermaid" in one desperate blow.
-To allow "Auram" to give chase to "Iblee", "Ningirsu" distracts the remaining six "Knightmares", thus opening up a way forward.
+To allow "Auram" to give chase to "Iblee", "Ningirsu" distracts the remaining "Knightmares", thus opening up a way forward.
 
 **Knightmare Mermaid**
 
@@ -369,7 +369,7 @@ The so-called heroic legends are the history of the fight over the "Key" between
 
 ### The ultimate "Mekk-Knight" that brings about demise
 
-The "Key" research team becomes the "Crusadia" organization, a direct subsidiary of the united nations. They recommend developing mechas under "Project Mekk-Knight" to combat this threat to the planet.
+The "Key" research team become the "Crusadia" organization, a direct subsidiary of the united nations. They recommend developing mechas under "Project Mekk-Knight" to combat this threat to the planet.
 
 Years later, "Morning Star", whose core embeds the "Key", is created as the weapon for the final battle, but in its maiden test, an irreversible incident occurs.
 
@@ -384,7 +384,7 @@ The "Crusadia" believe that the "World Hero" who could control the power of the 
 Thus, they program the surviving "Mekk-Knights" to prioritize "restoring the power of the earth", "birthing new life", and "halting the development of dangerous civilizations".
 Like this, the individual personalities of the "Crusadia" and the mission to revitalize the earth is saved on the "Mekk-Knights" via brain wave link.
 
-The "Crusadia" entrust their hope to the future, but they failed to notice that "Lee", who was supposed to be dead, had also discarded her physical form and moved her soul to the "World Chalice", which possesses the authority of "will".
+The "Crusadia" entrusted their hope to the future, but they failed to notice that "Lee", who was supposed to be dead, had also discarded her physical form and moved her soul to the "World Chalice", which possesses the authority of "will".
 
 **Mekk-Knight of the Morning Star**
 
@@ -642,7 +642,7 @@ Born from absorbing the corpse of "Ib" and the authority of five "Guardragons", 
 
 ### The horrific power of "Idlee" and a thread of hope
 
-To awaken and assimilate the power of God sealed in the earth's core, "Idlee" gives births to the central nervous system "Deus X-Krawler", desiring to inject the power of God into her body and descend as a new perfect God. Consumed by the authority of death, "Mardark" also defends "Idlee". It seems like nobody can stop the developing situation.
+To awaken and assimilate the power of God sealed in the earth's core, "Idlee" gives birth to the central nervous system "Deus X-Krawler", desiring to inject the power of God into her body and descend as a new perfect God. Consumed by the authority of death, "Mardark" also defends "Idlee". It seems like nobody can stop the developing situation.
 
 At this moment, "Justicia" flies in from the "Celestial Forest", releasing energy. "Justicia" fuses with the body of "Ib" that was pulled out from "Idlee" and is reborn as "Ib the World Chalice Justiciar".
 
@@ -683,17 +683,17 @@ When the fusion of "Lee" and "Ib" was imminent, "Galatea" sacrificed herself to 
 
 ### The "container for the power of God" appears from underground
 
-Having lost the power of the "Key", "Idlee" could no longer suppress the great power within her and continued to lose control, her form collapsing.
+Having lost the power of the "Key", "Idlee" could no longer suppress the great power within her and continues to lose control, her form collapsing.
 
 On the other side, the reborn "Ib" meets up with "Auram", and they collectively recall the soul of "Imduk" from "Mardark".
 "Imduk" greatly increases the newfound authority over life and evolves into "Almarduke".
-Before everybody had the chance to enjoy their reunion, "Deus X-Krawler" had obtained power from the earth's core and destroyed the earth. The underside of the container for God's power &mdash; "Theurlogical Demiurgy", appeared.
+Before everybody had the chance to enjoy their reunion, "Deus X-Krawler" had obtained power from the earth's core and destroys the earth. The underside of the container for God's power &mdash; "Theurlogical Demiurgy", appears.
 
 **World Gears of Theurlogical Demiurgy**
 
 ![World Gears of Theurlogical Demiurgy](https://pics.alphakretin.fail/lotd/57282724.png)
 
-Facing the embodiment of the force of destruction, the "Great Darkness", in ""Theurlogical Demiurgy", "Auram" suggested the final strategy that "Blue Sky" had once tried but stopped halfway &mdash; inherit the "World Key".
+Facing the embodiment of the force of destruction, the "Great Darkness", in "Theurlogical Demiurgy", "Auram" suggests the final strategy that "Blue Sky" had once tried but stopped halfway &mdash; inherit the "World Key".
 On this basis, as long as the powers of the "World Legacies" are gathered in his body, he would be able to defeat the "Great Darkness".
 
 **World Chalice Guardragon Almarduke**
@@ -725,9 +725,9 @@ Having long since lost her sanity, having gone berserk, she forcibly squishes he
 Of course, having lost the "Key", she could never control or direct that great power. After sensing her evil intent, "Theurlogical Demiurgy" goes haywire.
 
 Possessing the power of God, the world could be created and destroyed at the snap of a finger.
-Even the aftershocks of the energy spilling from this creation, are sufficient to accelerate the destruction of the world.
+Even the aftershocks of the energy spilling from this creation are sufficient to accelerate the destruction of the world.
 "Theurlogical Demiurgy" now becomes the embodiment of the authority of destruction.
-Trying to seal God with powers at the level of the earth's core is a fool's errand. The end of the world seemed unavoidable.
+Trying to seal God with powers at the level of the earth's core is a fool's errand. The end of the world seemed inevitable.
 
 At this moment, "Auram" finally completes the inheritance of the "Key", unites the powers of the "World Legacies", and awakens as the "World Hero" &mdash; "Mekk-Knight Crusadia Avramax".
 
@@ -787,7 +787,7 @@ Thus, the world is enveloped by light &mdash;
 
 ![World Reassembly](https://pics.alphakretin.fail/lotd/42172465.png)
 
-By the choice of "A-vida", the planet's rebirth program activates
+By the choice of "A-vida", the planet's rebirth program activates.
 
 ```
 That day, consciousness fell into a deep sleep alongside dazzling light
@@ -803,7 +803,7 @@ Entrusting her hope to that faint light, on the world that he left to her
 
 ![Lib the World Key Blademaster](https://pics.alphakretin.fail/lotd//39752820.png)
 
-The curtain closes on the planetary war. "Auram" who transformed into "A-vida" disappeared, but leaves in the realm of huamnity the "Key", transformed into a sword.
+The curtain closes on the planetary war. "Auram" who transformed into "A-vida" disappears, but leaves in the realm of huamnity the "Key", transformed into a sword.
 
 > Never let the tragedy of battle over the power of God happen again…
 
@@ -834,4 +834,4 @@ In this sky shine numerous stars, and if one listens carefully, one can hear the
 
 Thus, having been entrusted with the "World Key", "Ib" with the determination in her heart takes her steps &mdash;
 
-on the path guided to by "The World Legacy".
+on the path guided by "The World Legacy".
